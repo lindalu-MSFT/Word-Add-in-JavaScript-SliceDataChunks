@@ -12,7 +12,7 @@
 * [Additional resources](#additional-resources)
 
 <a name="summary"></a>
-##Summary
+## Summary
 This sample shows how to use JavaScript in a Word 2013 task pane add-in to get the current document and slice it into chunks of data in user-defined sizes. The data could then be submitted to a service (such as an editing service, a translation service, or an e-book publishing service).
 
 <a name="prerequisites"></a>
@@ -41,7 +41,7 @@ The sample solution contains the following key files:
 
 
 <a name="codedescription"></a>
-##Description of the code
+## Description of the code
 The DocumentForEditing.docx file is set as the **Start Document** property of the task pane add-in. The document is large enough (500 pages) to be sliced into a number of discrete chunks of data. 
 
 The sample demonstrates:
